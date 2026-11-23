@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ahmed_oso@hotmail.com
+	name = Ahmed Ali
